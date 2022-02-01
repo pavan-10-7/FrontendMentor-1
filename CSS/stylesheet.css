@@ -1,6 +1,6 @@
     body{
         margin: 0;
-        background-color:white;
+        background-color: hsl(212, 45%, 89%);;
         text-align: center;
     }
 
@@ -33,13 +33,11 @@
     }
 
     .body{
-        
-        height: 800px;
-        width: 1440px;
+        width: 100%;
         padding-top: 50px;
         padding-bottom: 50px;
         margin: auto;
-        background-color: hsl(212, 45%, 89%);
+        
     }
 
     .code{
