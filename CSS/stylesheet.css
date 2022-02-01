@@ -34,11 +34,11 @@
 
     .body{
         
-        height: 700px;
-        width: 1300px;
+        height: 800px;
+        width: 1440px;
         padding-top: 50px;
         padding-bottom: 50px;
-        margin: 150px auto 100px;
+        margin: auto;
         background-color: hsl(212, 45%, 89%);
     }
 
@@ -67,6 +67,7 @@
     }
 
     .attribution{
+        margin-top: 20px;
         text-align: center;
         font-family: 'Outfit', sans-serif;
     }
