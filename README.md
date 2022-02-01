@@ -14,12 +14,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-- This template challenge was provided by Frontend Mentor[https://www.fronendmentor.io].
+- This template challenge was provided by [Frontend Mentor](https://www.fronendmentor.io).
 - I've tried my level best to replicate the template of QR code, that leads yo to the above website.
 
 ### Links
 
-- Live Site URL: [https://pavan-10-7.github.io/QR-Code-Challenge/]
+- Live Site URL: [Click Here.](https://pavan-10-7.github.io/QR-Code-Challenge/)
 
 ## My process
 
